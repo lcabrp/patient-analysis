@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes patient readmission rates and treatment effectiveness across multiple hospitals. It identifies factors that contribute to patient readmissions and provides insights that could help healthcare providers improve patient outcomes and reduce unnecessary readmissions.
 
+## Dataset Source Note
+
+This course project keeps its original local setup flow so the notebook remains reproducible as submitted. The maintained reusable version of the synthetic patient/hospital generator now lives in the sibling `generating-datasets` repository as `healthcare_readmissions.py`.
+
 ## Project Setup Instructions
 
 ### Prerequisites
